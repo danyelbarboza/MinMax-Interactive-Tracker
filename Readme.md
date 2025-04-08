@@ -1,6 +1,6 @@
 # MinMax
 
-## 📌 Descrição (Português)
+## Descrição (Português)
 
 Este é um programa Java de linha de comando que permite ao usuário inserir números inteiros continuamente e, a cada novo número, atualiza e exibe o menor (mínimo) e o maior (máximo) número inserido até o momento.
 
